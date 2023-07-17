@@ -1,18 +1,21 @@
-# 2023 2ano-html5-css3
+# 2023 1 ano HTML5 - CSS
 
-Baseado no curso "html5-css3-parte-1-pagina-web" Alura, turmas 2 ano 2023.
+Este curso é ministrado para turmas do 1 ano com conteúdo que segue o curso "html5-css3-parte-1-pagina-web" Alura.
 
 ## Rúbricas
 
-* HTML Estrutura básica do html:
-  * Tags: DOCTYPE, html, head, body;
-* HTML Formatação de informação:
-  * Tags: h1, h2, h3, p, em, strong;
-* HTML Tags semânticas:
-  * header;
-* HTML imagens:
-  * img;  
+* Introdução à linguagem HTML e CSS;
+* Estrutura básica de uma página HTML: DOCTYPE, html, head, body;
+* Tags de formatação de informação: h1, h2, h3, p, em, strong;
+* Tags semânticas: header;
+* Tag para imagens: img;
+* Tag de lista não numerada;
 * CSS:
   * inline, interno, externo;
   * vinculação de css externo com html;
   * seletor por tag (simples e descendência), classe, id;
+  * text-align, font-size, background, color, representação de cores, height, width, padding, margin, inline, block
+
+## Links
+
+* []()
