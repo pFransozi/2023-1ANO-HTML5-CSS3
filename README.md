@@ -1,6 +1,12 @@
-# 2023 1 ano HTML5 - CSS
+# 2023 1ano HTML5, CSS
 
-Este curso é ministrado para turmas do 1 ano com conteúdo que segue o curso "html5-css3-parte-1-pagina-web" Alura.
+## Descrição
+
+Este repositório é utilizado para o curso "html5-css3-parte-1-pagina-web" da Alura, ministrado para turmas do 1 ano. Nele está registrado os arquivos finais do curso (*.jpg, index.html, style.css), rúbricas avaliatívas.
+
+O curso aborda a criação de páginas web utilizando html/css de modo introdutório, nos seus elementos básicos.
+
+O resultado final do curso pode ser acessado pelo [link](https://pfransozi.github.io/2023-1ANO-HTML5-CSS3/).
 
 ## Rúbricas
 
@@ -17,5 +23,3 @@ Este curso é ministrado para turmas do 1 ano com conteúdo que segue o curso "h
   * text-align, font-size, background, color, representação de cores, height, width, padding, margin, inline, block
 
 ## Links
-
-* [Exemplo criado a partir do curso html5-css3-parte-1-pagina-web](https://pfransozi.github.io/2023-1ANO-HTML5-CSS3/);
