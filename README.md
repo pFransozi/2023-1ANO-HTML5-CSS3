@@ -18,4 +18,4 @@ Este curso é ministrado para turmas do 1 ano com conteúdo que segue o curso "h
 
 ## Links
 
-* [Exemplo criado a partir do curso html5-css3-parte-1-pagina-web](https://pfransozi.github.io/2023-1ANO-HTML5-CSS3/){:target=”_blank”};
+* [Exemplo criado a partir do curso html5-css3-parte-1-pagina-web](https://pfransozi.github.io/2023-1ANO-HTML5-CSS3/);
